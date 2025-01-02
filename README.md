@@ -41,4 +41,4 @@ npm run lint
 
 ## Deployed Application
 
-The application has been deployed and can be accessed at: [https://rumahweb-coding-test.netlify.app/](https://rumahweb-coding-test-advanced.netlify.app/)
+The application has been deployed and can be accessed at: [https://rumahweb-coding-test-advanced.netlify.app/](https://rumahweb-coding-test-advanced.netlify.app/)
